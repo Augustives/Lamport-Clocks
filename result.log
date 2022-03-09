@@ -1,0 +1,42 @@
+Starting random routine with 3 Clocks and 5 Cycles
+
+------------ CYCLE 1 STARTING ------------
+!!!! Clock 2 sent a message to Clock 0 !!!!
+CURRENT VECTORS STATES:
+Clock 0 Vector = [1, 0, 1]
+Clock 1 Vector = [0, 0, 0]
+Clock 2 Vector = [0, 0, 1]
+------------------------------------------
+
+------------ CYCLE 2 STARTING ------------
+!!!! Clock 0 sent a message to Clock 2 !!!!
+CURRENT VECTORS STATES:
+Clock 0 Vector = [2, 0, 1]
+Clock 1 Vector = [0, 0, 0]
+Clock 2 Vector = [2, 0, 2]
+------------------------------------------
+
+------------ CYCLE 3 STARTING ------------
+!!!! Clock 1 sent a message to Clock 0 !!!!
+CURRENT VECTORS STATES:
+Clock 0 Vector = [3, 1, 1]
+Clock 1 Vector = [0, 1, 0]
+Clock 2 Vector = [2, 0, 2]
+------------------------------------------
+
+------------ CYCLE 4 STARTING ------------
+!!!! Clock 1 sent a message to Clock 2 !!!!
+CURRENT VECTORS STATES:
+Clock 0 Vector = [3, 1, 1]
+Clock 1 Vector = [0, 2, 0]
+Clock 2 Vector = [2, 2, 3]
+------------------------------------------
+
+------------ CYCLE 5 STARTING ------------
+!!!! Clock 2 sent a message to Clock 1 !!!!
+CURRENT VECTORS STATES:
+Clock 0 Vector = [3, 1, 1]
+Clock 1 Vector = [2, 3, 4]
+Clock 2 Vector = [2, 2, 4]
+------------------------------------------
+
